@@ -1,3 +1,6 @@
+##MongoDB - Aula 02 - Exercício
+autor: Aldo Nunes Jr
+
 ##Listagem das databases (passo 2)
 ```
 > use be-mean-pokemons
